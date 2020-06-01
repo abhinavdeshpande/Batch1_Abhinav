@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "limits-services",
+      "type": "com.cg.Configuration",
+      "sourceType": "com.cg.Configuration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "limits-services.maximum",
+      "type": "java.lang.Integer",
+      "sourceType": "com.cg.Configuration"
+    },
+    {
+      "name": "limits-services.minimum",
+      "type": "java.lang.Integer",
+      "sourceType": "com.cg.Configuration"
+    }
+  ],
+  "hints": []
+}
