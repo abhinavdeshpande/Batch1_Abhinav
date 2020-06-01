@@ -1,0 +1,6 @@
+h2-console info:
+http://localhost:8000/h2-console/
+select JDBC URL as - jdbc:h2:mem:testdb
+
+
+1. Create Component of Eureka namingserver
